@@ -1,10 +1,10 @@
 <div align="center">
 
-# 🚀 NeuroLearn-AI
+# 🚀 EduAI — Premium Online Learning Platform
 
-### Premium AI-Powered MERN Learning Platform
+### AI-Powered MERN Learning Management System
 
-AI-driven full-stack learning management platform engineered with scalable MERN architecture, analytics dashboards, responsive SaaS UI, and modern production-oriented workflows.
+Modern SaaS-inspired full-stack learning platform engineered with scalable MERN architecture, analytics dashboards, authentication workflows, responsive UI systems, and production-oriented engineering practices.
 
 ---
 
@@ -12,17 +12,12 @@ AI-driven full-stack learning management platform engineered with scalable MERN 
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-Authentication-orange?style=for-the-badge)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-Realtime-black?style=for-the-badge)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ---
-
-![GitHub stars](https://img.shields.io/github/stars/yourusername/NeuroLearn-AI?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/NeuroLearn-AI?style=social)
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/NeuroLearn-AI)
-![License](https://img.shields.io/badge/license-MIT-blue)
 
 </div>
 
@@ -30,128 +25,117 @@ AI-driven full-stack learning management platform engineered with scalable MERN 
 
 # 📖 Project Overview
 
-NeuroLearn-AI is a modern AI-powered online learning platform developed using the MERN stack architecture with a production-oriented SaaS UI approach.
+EduAI is a premium AI-powered online learning platform developed using the MERN stack architecture with a production-oriented SaaS UI approach.
 
-The platform focuses on scalable frontend-backend workflows, responsive dashboard systems, authentication architecture, analytics visualization, modular component engineering, and modern learning management experiences.
+The platform focuses on scalable frontend-backend workflows, responsive dashboard systems, authentication architecture, analytics visualization, reusable component engineering, and modern learning management experiences.
 
-The project was designed to simulate how real-world SaaS learning systems operate by integrating:
+This project was built to understand how real-world SaaS learning systems operate by integrating:
 
 - scalable React frontend architecture
 - modular backend API structure
-- premium dashboard engineering
-- analytics-driven insights
-- reusable component systems
-- secure authentication workflows
-- responsive UI engineering
-- modern deployment practices
+- analytics dashboards
+- reusable UI systems
+- responsive design engineering
+- authentication workflows
+- modern deployment architecture
+- scalable component-driven development
 
-The goal of the project was not just building CRUD functionality, but understanding how complete production-style systems are structured and managed.
-
----
-
-# ✨ Key Features
-
-## 🎯 Core Features
-
-- Premium SaaS-style learning dashboard
-- Modular MERN architecture
-- Responsive UI system
-- Reusable React components
-- Scalable folder structure
-- Production-oriented design workflow
+The goal of the project was not only building CRUD functionality, but learning how complete production-style systems are engineered and managed.
 
 ---
 
-## 📊 Dashboard Features
+# ✨ Core Features
 
+## 🎯 Dashboard Features
+
+- Premium SaaS dashboard UI
 - KPI analytics cards
-- Student performance metrics
-- Course completion tracking
-- AI score indicators
-- Real-time dashboard rendering
-- Activity monitoring system
+- AI performance metrics
+- Student activity monitoring
+- Completion rate tracking
+- Responsive dashboard system
 
 ---
 
 ## 📚 Course Management
 
 - Dynamic course cards
-- Progress tracking bars
-- Enrollment system UI
 - AI-powered course recommendations
+- Course progress tracking
+- Enrollment UI system
 - Premium learning modules
 
 ---
 
 ## 👨‍🎓 Student Management
 
-- Student engagement tracking
-- Attendance monitoring
-- Performance analytics
-- Learning progress overview
-- Student data visualization
+- Student analytics table
+- Attendance tracking
+- Engagement monitoring
+- Performance analysis
+- Learning progress system
 
 ---
 
-## 🔐 Authentication & Security
+## 🔐 Authentication System
 
-- JWT Authentication architecture
-- Protected route structure
-- Secure login/register workflow
-- Password encryption workflow design
-- Backend auth middleware planning
+- JWT Authentication workflow
+- Login/Register architecture
+- Protected routes
+- Secure API communication
+- Authentication middleware design
 
 ---
 
 ## 📈 Analytics & Insights
 
-- Dashboard analytics visualization
-- Learning progress analysis
-- Completion rate monitoring
-- Student activity metrics
-- Scalable analytics architecture
+- Dashboard analytics
+- Completion metrics
+- Learning insights
+- Realtime dashboard structure
+- Chart visualization system
 
 ---
 
-## ⚡ Performance Optimizations
+## ⚡ SaaS UI Engineering
 
-- Vite-powered frontend
-- Modular rendering
-- Reusable components
-- Optimized folder structure
-- Component separation architecture
+- Responsive layouts
+- Modern dark UI
+- Framer Motion animations
+- Scalable component system
+- Modular frontend structure
 
 ---
 
-# 🖼️ Screenshot Showcase
+# 🖼️ Application Preview
 
-## 🏠 Dashboard
+## 🚀 Dashboard
 
 ![Dashboard](./images/dashboard.png)
 
 ---
 
-## 📚 Courses Page
+## 📚 Courses Module
 
 ![Courses](./images/courses.png)
-
----
-
-## 🔐 Login Page
-
-![Login](./images/login.png)
-
----
-
-## 📝 Register Page
-
-![Register](./images/register.png)
 
 ---
 
 ## 👨‍🎓 Student Management
 
 ![Students](./images/student_details.png)
+
+---
+
+## 🔐 Login System
+
+![Login](./images/login.png)
+
+---
+
+## 📝 Register System
+
+![Register](./images/register.png)
 
 ---
 
@@ -167,19 +151,267 @@ The goal of the project was not just building CRUD functionality, but understand
 
 ---
 
-# 🏗️ System Architecture
+# 🏗️ Workflow Architecture
 
 ```txt
 Client (React + Vite)
         ↓
 Frontend Components
         ↓
-React Router Navigation
+React Router
         ↓
 Express API Layer
         ↓
 Authentication Middleware
         ↓
 MongoDB Database
+```
+
+---
+
+# ⚡ Realtime System Workflow
+
+```txt
+User Interaction
         ↓
-Analytics & Learning Data
+Socket.IO Events
+        ↓
+Realtime Dashboard Updates
+        ↓
+Analytics Rendering
+```
+
+---
+
+# ⚙️ Tech Stack
+
+| Category | Technologies |
+|---|---|
+| Frontend | React.js, Vite |
+| Backend | Node.js, Express.js |
+| Database | MongoDB |
+| Authentication | JWT |
+| Realtime | Socket.IO |
+| Styling | Tailwind CSS |
+| Charts | Recharts |
+| Animation | Framer Motion |
+| Deployment | Vercel, Render |
+| Version Control | Git & GitHub |
+
+---
+
+# 📂 Project Structure
+
+```bash
+EduAI/
+│
+├── client/
+│   ├── src/
+│   │   ├── components/
+│   │   ├── pages/
+│   │   ├── charts/
+│   │   ├── data/
+│   │   ├── layout/
+│   │   └── utils/
+│
+├── server/
+│   ├── routes/
+│   ├── controllers/
+│   ├── middleware/
+│   ├── models/
+│   └── config/
+│
+├── images/
+├── public/
+├── README.md
+└── package.json
+```
+
+---
+
+# 🔄 System Workflow
+
+## 🔐 Authentication Flow
+
+```txt
+User Login/Register
+        ↓
+Frontend Validation
+        ↓
+API Request
+        ↓
+JWT Token Generation
+        ↓
+Protected Dashboard Access
+```
+
+---
+
+## 📚 Course Workflow
+
+```txt
+Courses → Enrollment → Progress Tracking → Analytics Dashboard
+```
+
+---
+
+## 📊 Analytics Workflow
+
+```txt
+Student Data
+      ↓
+Analytics Engine
+      ↓
+Charts & KPIs
+      ↓
+Dashboard Visualization
+```
+
+---
+
+# 🔐 Environment Variables
+
+Create `.env` inside server folder:
+
+```env
+PORT=5000
+MONGO_URI=your_mongodb_uri
+JWT_SECRET=your_secret_key
+CLIENT_URL=http://localhost:5173
+```
+
+| Variable | Description |
+|---|---|
+| PORT | Backend server port |
+| MONGO_URI | MongoDB connection string |
+| JWT_SECRET | Authentication secret |
+| CLIENT_URL | Frontend URL |
+
+---
+
+# 🚀 Installation & Setup
+
+## 1️⃣ Clone Repository
+
+```bash
+git clone https://github.com/yourusername/EduAI.git
+```
+
+---
+
+## 2️⃣ Install Frontend Dependencies
+
+```bash
+cd client
+npm install
+```
+
+---
+
+## 3️⃣ Install Backend Dependencies
+
+```bash
+cd ../server
+npm install
+```
+
+---
+
+## 4️⃣ Run Frontend
+
+```bash
+cd client
+npm run dev
+```
+
+---
+
+## 5️⃣ Run Backend
+
+```bash
+cd server
+npm run server
+```
+
+---
+
+# 📊 Engineering Highlights
+
+- Modular React architecture
+- Reusable UI components
+- Scalable frontend structure
+- Authentication middleware design
+- API separation architecture
+- Realtime workflow integration
+- Responsive SaaS engineering
+- Dashboard analytics rendering
+- Production-oriented folder structure
+- Scalable MERN workflows
+
+---
+
+# 🧪 Future Improvements
+
+- AI recommendation engine
+- Docker containerization
+- Kubernetes orchestration
+- Advanced analytics dashboard
+- Payment integration
+- Course certification system
+- Redis caching layer
+- CI/CD pipelines
+- Observability & monitoring
+- Role-based access control
+
+---
+
+# 📚 Learning Outcomes
+
+This project significantly improved my understanding of:
+
+- scalable MERN architecture
+- frontend-backend integration
+- authentication systems
+- API communication
+- reusable React component systems
+- responsive SaaS engineering
+- analytics dashboard architecture
+- realtime system workflows
+- Git & GitHub workflows
+- deployment pipelines
+- debugging production-level issues
+
+---
+
+# 👨‍💻 Author
+
+## Sujal Kumar Shaw
+
+ECE Student • MERN Stack Developer • Full Stack Engineer
+
+### 🌐 Connect With Me
+
+- GitHub: https://github.com/yourusername
+- LinkedIn: https://linkedin.com/in/yourprofile
+- Portfolio: https://yourportfolio.com
+
+---
+
+# 🌟 Support
+
+If you found this project useful:
+
+⭐ Star the repository  
+🍴 Fork the project  
+🐛 Open issues  
+🚀 Contribute improvements  
+
+
+
+---
+
+# 🏁 Final Note
+
+Engineered with scalability, performance, modular architecture, and modern full-stack engineering practices in mind.
+
+🔥 Built with modern technologies and scalable architecture 🔥
