@@ -389,12 +389,6 @@ This project significantly improved my understanding of:
 
 ECE Student • MERN Stack Developer • Full Stack Engineer
 
-### 🌐 Connect With Me
-
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourprofile
-- Portfolio: https://yourportfolio.com
-
 ---
 
 # 🌟 Support
